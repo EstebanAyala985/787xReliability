@@ -87,7 +87,11 @@ Step 6: Security and Governance
 Step 7: End-to-End Testing
 
   2. Trigger and Test Pipelines: Insert new records into the SQL database and verify that the entire pipeline runs successfully, updating the Power BI dashboard.
-     
+
+## Dashboard
+
+![dashboard](https://github.com/user-attachments/assets/82a5107e-6739-4346-9210-ad8319e896ee)
+
 ## Conclusion
 
 This project provides a robust end-to-end solution for understanding aircraft utilization. The automated data pipeline ensures that stakeholders always have access to the most current and actionable insights.
